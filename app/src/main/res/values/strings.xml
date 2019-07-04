@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Udemy</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Udemy Online Courses</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+
+    //TODO the navigation of the application
+
+    <string name="menu_development">Development</string>
+    <string name="menu_health_and_fitness">Health and Fitness</string>
+    <string name="menu_music">Music</string>
+    <string name="menu_finance_and_accounting">Accounting</string>
+    <string name="menu_business">Business</string>
+    <string name="menu_teaching_and_academics">Academics</string>
+    <string name="menu_it_and_software">IT and Software</string>
+    <string name="menu_personal_development">Personal Development</string>
+    <string name="menu_design">Design</string>
+    <string name="menu_marketing">Marketing</string>
+    <string name="menu_office_productivity">Office Productivity</string>
+    <string name="menu_Lifestyle">Lifestyle</string>
+    <string name="menu_photography">Photography</string>
+    <string name="menu_home">Home</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

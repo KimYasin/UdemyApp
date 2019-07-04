@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+                android:id="@+id/nav_home"
+                android:icon="@drawable/ic_home_black_24dp"
+                android:title="@string/menu_home"/>
+        <item
+                android:id="@+id/nav_development"
+                android:icon="@drawable/ic_development_mode_black_24dp"
+                android:title="@string/menu_development"/>
+        <item
+                android:id="@+id/nav_business"
+                android:icon="@drawable/ic_business_black_24dp"
+                android:title="@string/menu_business"/>
+        <item
+                android:id="@+id/nav_finance_and_accounting"
+                android:icon="@drawable/ic_accounting_black_24dp"
+                android:title="@string/menu_finance_and_accounting"/>
+        <item
+                android:id="@+id/nav_It_and_software"
+                android:icon="@drawable/ic_it_and_software_black_24dp"
+                android:title="@string/menu_it_and_software"/>
+        <item
+                android:id="@+id/nav_officeProductivity"
+                android:icon="@drawable/ic_office_and_productivity_black_24dp"
+                android:title="@string/menu_office_productivity"/>
+        <item
+                android:id="@+id/nav_personal_development"
+                android:icon="@drawable/ic_personal_development_black_24dp"
+                android:title="@string/menu_personal_development"/>
+        <item
+                android:id="@+id/nav_Design"
+                android:icon="@drawable/ic_design_black_24dp"
+                android:title="@string/menu_design"/>
+
+        <item
+                android:id="@+id/nav_marketing"
+                android:icon="@drawable/ic_marketing_black_24dp"
+                android:title="@string/menu_marketing"/>
+        <item
+                android:id="@+id/nav_lifestyle"
+                android:icon="@drawable/ic_lifestyle_black_24dp"
+                android:title="@string/menu_Lifestyle"/>
+        <item
+                android:id="@+id/nav_photography"
+                android:icon="@drawable/ic_photography_black_24dp"
+                android:title="@string/menu_photography"/>
+    </group>
+
+    <item android:title="MORE FROM UDEMY">
+        <menu>
+            <item
+                    android:id="@+id/nav_health_and_fitness"
+                    android:icon="@drawable/ic_health_and_fitness_black_24dp"
+                    android:title="@string/menu_health_and_fitness"/>
+            <item
+                    android:id="@+id/nav_music"
+                    android:icon="@drawable/ic_music_black_24dp"
+                    android:title="@string/menu_music"/>
+
+            <item
+                    android:id="@+id/nav_teaching_and_academics"
+                    android:icon="@drawable/ic_teaching_and_academics_in_black_24dp"
+                    android:title="@string/menu_teaching_and_academics"/>
+        </menu>
+    </item>
+
+</menu>
